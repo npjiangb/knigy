@@ -1,6 +1,5 @@
 <application>
   <component name="HttpConfigurable">
-    <option name="USE_HTTP_PROXY" value="true" />
-    <option name="PROXY_HOST" value="mirrors.opencas.cn" />
+    <option name="PROXY_HOST" value="ubuntu.buct.edu.cn" />
   </component>
 </application>
